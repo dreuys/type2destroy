@@ -11,7 +11,6 @@ int main(void)
 	int largura = 640;
 	int posF = 0; // posição final do vetor
 	int sair = 0;
-	int i;
 	int acertou = 0;
 	int errou = 0;
 	char teste[] = "ABELHA";
